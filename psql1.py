@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# This is the comment in the python
+# This is second line comment
+>>>>>>> second_branch
 import mysql.connector
 mydb = mysql.connector.connect(
     host = "localhost",
