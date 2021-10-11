@@ -1,3 +1,4 @@
+# This is the comment in the python
 import mysql.connector
 mydb = mysql.connector.connect(
     host = "localhost",
